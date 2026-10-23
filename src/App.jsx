@@ -1,10 +1,10 @@
-import HeroHeader from "./componentes/HeroHeader";
+import HeroHeader from "./componentes/Heroheader";
 import "./App.css";
 
 export default function App() {
   return (
     <>
-      <HeroHeader />
+      <Heroheader />
       <section id="proyectos" className="proyectos">
         <h2>Proyectos</h2>
         <p>Aquí van mis proyectos.</p>
